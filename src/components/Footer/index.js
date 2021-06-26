@@ -15,7 +15,7 @@ const Footer = () => {
                 <h2>Sobre Mim</h2>
                 <p> Canceriana, nordestina, apaixonada por chás e livros, mãe de doguinhos,<br/> 
                 adoro viagens, amigos e  filmes. Engenheira de pesca mas me descobri na programação,<br/> 
-                encantada com as novas descobertas no mundo da tecnologia  </p>
+                encantada com as novas descobertas no mundo da tecnologia.</p>
             </div>
             <div>   
                 <div className="links-icones">
