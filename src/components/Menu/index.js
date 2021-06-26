@@ -14,7 +14,7 @@ const Menu = () => {
                     <Link className="link" to="/simpsons">Simpsons</Link>
                 </li>
                 <li>
-                    <Link className="link" to="/serie" >Minha pagina dever de casa</Link>
+                    <Link className="link" to="/serie">Harry Potter</Link>
                 </li>
             </ul>
         </div>
